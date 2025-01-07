@@ -1,0 +1,2 @@
+# sometexts
+for udemy course
